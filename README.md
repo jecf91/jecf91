@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joao Freitas</h1>
-<h3 align="center">A passionate frontend developer from Portugal based in Berlin. Eager about tech innovation. Quick learner.</h3>
+<h3 align="center">A passionate frontend developer from Portugal based in Berlin. Eager about tech innovation.</h3>
 
 - 🌱 I’m currently learning **Next.JS and Astro**
 
